@@ -1,0 +1,14 @@
+F:\vsstdiuo\warehouse\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\bin\Debug\warehouse.exe
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\bin\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.exe
+C:\Users\h3854\Desktop\warehouse\warehouse\warehouse\obj\Debug\warehouse.pdb

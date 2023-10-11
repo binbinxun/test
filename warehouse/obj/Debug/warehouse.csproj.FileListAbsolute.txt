@@ -1,0 +1,201 @@
+F:\vsstdiuo\warehouse\warehouse\warehouse\bin\Debug\warehouse.exe.config
+F:\vsstdiuo\warehouse(第三版)\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\惠普\Desktop\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\bin\Debug\warehouse.exe
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\bin\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.exe
+C:\Users\h3854\Desktop\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.pdb
+F:\vsstdiuo\第四版8.2\warehouse\warehouse\bin\Debug\warehouse.exe.config
+F:\vsstdiuo\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.exe
+F:\vsstdiuo\第四版8.2\warehouse\warehouse\obj\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\MySql.Data.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\Google.Protobuf.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\Zstandard.Net.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\System.Buffers.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CopyComplete
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.exe
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.pdb
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.count.resources
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.input.resources
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.exe
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.pdb
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe.config
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe
+F:\vss2022\warehouse(2).2023.8.31\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\h3854\Desktop\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.OutputWindow.resources
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe.config
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.pdb
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.count.resources
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.OutputWindow.resources
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.input.resources
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.exe
+F:\vss2022\（在plane显示结果）warehouse(1).9.12\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\MySql.Data.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\Google.Protobuf.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\Zstandard.Net.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\System.Buffers.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CopyComplete
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.exe
+C:\Users\h3854\Desktop\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.pdb
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe.config
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.exe
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\bin\Debug\warehouse.pdb
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.count.resources
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.OutputWindow.resources
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.input.resources
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.exe
+F:\vss2022\调整定时器速度 9.13warehouse(1)(2)\warehouse(1)(2)\warehouse(1)\warehouse\warehouse\obj\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\warehouse\warehouse\bin\Debug\warehouse.exe
+C:\Users\惠普\Desktop\warehouse\warehouse\bin\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.exe
+C:\Users\惠普\Desktop\warehouse\warehouse\obj\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.exe
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\bin\Debug\warehouse.exe
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\bin\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\warehouse\obj\Debug\warehouse.select.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\warehouse.exe
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\warehouse.pdb
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\MySql.Data.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\Google.Protobuf.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\Zstandard.Net.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\System.Buffers.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.select.resources
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.csproj.CopyComplete
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.exe
+C:\Users\h3854\Desktop\前端页面修改\warehouse\obj\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\bin\Debug\warehouse.exe
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\bin\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.select.resources
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.exe
+C:\Users\惠普\Desktop\（修改版）前端页面修改 10.3\前端页面修改\warehouse\obj\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\bin\Debug\warehouse.exe
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\bin\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.select.resources
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.exe
+C:\Users\惠普\Desktop\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\bin\Debug\warehouse.exe.config
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\bin\Debug\warehouse.exe
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\bin\Debug\warehouse.pdb
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.csproj.AssemblyReference.cache
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.count.resources
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.OutputWindow.resources
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.input.resources
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.plane.resources
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.Properties.Resources.resources
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.select.resources
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.csproj.GenerateResource.cache
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.csproj.CoreCompileInputs.cache
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.exe
+C:\Users\惠普\Desktop\货物出库二\前端页面修改 10.7 - 副本\前端页面修改\warehouse\obj\Debug\warehouse.pdb
