@@ -1,0 +1,24 @@
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.csproj.AssemblyReference.cache
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.AssemblyInfoInputs.cache
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.AssemblyInfo.cs
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.csproj.CoreCompileInputs.cache
+E:\C#\出货 9.7\bin\Debug\net6.0\出货 9.7.exe
+E:\C#\出货 9.7\bin\Debug\net6.0\出货 9.7.deps.json
+E:\C#\出货 9.7\bin\Debug\net6.0\出货 9.7.runtimeconfig.json
+E:\C#\出货 9.7\bin\Debug\net6.0\出货 9.7.dll
+E:\C#\出货 9.7\bin\Debug\net6.0\出货 9.7.pdb
+E:\C#\出货 9.7\bin\Debug\net6.0\MySql.Data.dll
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.csproj.CopyComplete
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.dll
+E:\C#\出货 9.7\obj\Debug\net6.0\refint\出货 9.7.dll
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.pdb
+E:\C#\出货 9.7\obj\Debug\net6.0\出货 9.7.genruntimeconfig.cache
+E:\C#\出货 9.7\obj\Debug\net6.0\ref\出货 9.7.dll
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\出货 9.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\出货 9.7.AssemblyInfoInputs.cache
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\出货 9.7.AssemblyInfo.cs
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\出货 9.7.csproj.CoreCompileInputs.cache
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\出货 9.7.dll
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\refint\出货 9.7.dll
+C:\Users\惠普\Desktop\货物出库演示\前端页面修改\出货9.7\obj\Debug\net6.0\出货 9.7.pdb
